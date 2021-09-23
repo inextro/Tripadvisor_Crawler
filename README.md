@@ -25,4 +25,5 @@ v1과 비교하였을 때 소요시간이 1/3 수준으로 감소하였습니다
 - pos tagging
 - stopwords
 - lemmatization
+
 DT Matrix, TF-IDF Matrix를 생성하였습니다.
